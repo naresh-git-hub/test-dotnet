@@ -1,0 +1,15 @@
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\bin\Debug\net6.0\my_first_app.exe
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\bin\Debug\net6.0\my_first_app.deps.json
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\bin\Debug\net6.0\my_first_app.runtimeconfig.json
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\bin\Debug\net6.0\my_first_app.dll
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\bin\Debug\net6.0\my_first_app.pdb
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\obj\Debug\net6.0\my_first_app.csproj.AssemblyReference.cache
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\obj\Debug\net6.0\my_first_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\obj\Debug\net6.0\my_first_app.AssemblyInfoInputs.cache
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\obj\Debug\net6.0\my_first_app.AssemblyInfo.cs
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\obj\Debug\net6.0\my_first_app.csproj.CoreCompileInputs.cache
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\obj\Debug\net6.0\my_first_app.dll
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\obj\Debug\net6.0\refint\my_first_app.dll
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\obj\Debug\net6.0\my_first_app.pdb
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\obj\Debug\net6.0\my_first_app.genruntimeconfig.cache
+C:\Users\NareshNarayanadasu\testdotnet\testone\my_first_app\obj\Debug\net6.0\ref\my_first_app.dll
